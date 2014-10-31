@@ -1,0 +1,12 @@
+# Site settings
+title: Marketing Cloud Help
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+ Marketing Cloud unified Help.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://marketing.adobe.com" # the base hostname & protocol for your site
+twitter_username: AdobeMktgCloud
+github_username:  adobe-marketing-cloud
+
+# Build settings
+markdown: kramdown
